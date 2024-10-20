@@ -16,13 +16,21 @@ Both algorithms are implemented in Python and aim to find the most effective tea
 
 # Usage:
 1.Clone this repository:
+
 `git clone https://github.com/eraygokcee/fifa-team-selection-ai.git
+
 2.Install the required dependencies
-3.Run the algorithms:
+
 `pip install pandas
+
+3.Run the algorithms:
+
 Genetic Algorithm:
+
 `python fifaGenetik.py
+
 4.Hill Climbing Algorithm:
+
 `python fifaTepe.py
 
 
