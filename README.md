@@ -11,8 +11,6 @@ Both algorithms are implemented in Python and aim to find the most effective tea
 * Implements Hill Climbing Algorithm to optimize team composition step-by-step.
 * Works with player statistics to maximize team potential in FIFA.
 
-### Video Demo
-You can view the demo of the project through this [video link](https://youtu.be/6CuX-jBqNY8).
 ## Technologies:
 * Python: For implementing the AI algorithms.
 
